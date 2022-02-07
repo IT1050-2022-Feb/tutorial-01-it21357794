@@ -14,7 +14,7 @@ int main() {
    scanf("%f",mark2);
    
    avg=(float) (mark1+mark2)/2;
-   printf("%.1f",avg);
+   printf("\nAverage=%.1f",avg);
    
   return 0;
 }
